@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** colombo
 - **Background:** -
 - **Learning Goals:** improve coding skill 
-- **Fun Fact:** -
+- **Fun Fact:** reading books
 - **Date Added:**17.02.2026 
 
 
